@@ -1,1 +1,1 @@
-# python-barcodes
+# python-openbarcodes
